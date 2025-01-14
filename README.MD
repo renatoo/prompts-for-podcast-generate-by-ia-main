@@ -76,12 +76,12 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     <p>&nbsp&nbsp&nbspRenato Bento<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/webrenat">
+        href="https://github.com/renatoo">
         GitHub
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/webrenat">
+        href="https://www.linkedin.com/in/webrenat">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
